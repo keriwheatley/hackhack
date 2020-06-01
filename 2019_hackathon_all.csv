@@ -1,0 +1,965 @@
+﻿WebpageLink,ExpectedLanguage,Text
+Sign-In Page,en,Agree to Privacy Statement
+Sign-In Page,en,Orders
+Sign-In Page,en,Approve Orders
+Sign-In Page,en,Order History
+Sign-In Page,en,Catalog
+Sign-In Page,en,Inventory
+Sign-In Page,en,Currency Conversion
+Sign-In Page,en,Budget
+Sign-In Page,en,Catalog Admin
+Sign-In Page,en,Policies
+Sign-In Page,en,Privacy Statement
+Sign-In Page,en,Accounts
+Sign-In Page,en,User Access
+Sign-In Page,en,Logout
+Sign-In Page,en,Submit
+Sign-In Page,en,Continue Session
+Sign-In Page,en,Orders Approve Orders Order History
+Main Parameters page,en,Service Instance Name
+Main Parameters page,en,Quantity
+Main Parameters page,en,Quick purchase
+Main Parameters page,en,Add service to existing cart
+Main Parameters page,en,Add service to new cart
+Main Parameters page,en,Provider Account
+Main Parameters page,en,Orders
+Main Parameters page,en,Approve Orders
+Main Parameters page,en,Order History
+Main Parameters page,en,Catalog
+Main Parameters page,en,Inventory
+Main Parameters page,en,Currency Conversion
+Main Parameters page,en,Budget
+Main Parameters page,en,Catalog Admin
+Main Parameters page,en,Policies
+Main Parameters page,en,Catalog
+Main Parameters page,en,DETAILS
+Main Parameters page,en,Accounts
+Main Parameters page,en,User Access
+Main Parameters page,en,Logout
+Main Parameters page,en,Cancel
+Main Parameters page,en,Next
+Main Parameters page,en,NO
+Main Parameters page,en,YES
+Main Parameters page,en,Continue Session
+Main Parameters page,en,Orders Approve Orders Order History
+Main Parameters page,en,PLACE ORDER
+Main Parameters page,en,Configure Service
+Main Parameters page,en,Estimated Cost
+Main Parameters page,en,Quick purchase
+Main Parameters page,en,Add service to existing cart
+Main Parameters page,en,Add service to new cart
+Review Order Page,en,Orders
+Review Order Page,en,Approve Orders
+Review Order Page,en,Order History
+Review Order Page,en,Catalog
+Review Order Page,en,Inventory
+Review Order Page,en,Currency Conversion
+Review Order Page,en,Budget
+Review Order Page,en,Catalog Admin
+Review Order Page,en,Policies
+Review Order Page,en,Catalog
+Review Order Page,en,DETAILS
+Review Order Page,en,More
+Review Order Page,en,Accounts
+Review Order Page,en,User Access
+Review Order Page,en,Logout
+Review Order Page,en,Cancel
+Review Order Page,en,Previous
+Review Order Page,en,Submit Order
+Review Order Page,en,Go to Service Catalog
+Review Order Page,en,NO
+Review Order Page,en,YES
+Review Order Page,en,Continue Session
+Review Order Page,en,Orders Approve Orders Order History
+Review Order Page,en,PLACE ORDER
+Review Order Page,en,Configure Service
+Review Order Page,en,Submit Order
+Review Order Page,en,SERVICE DETAILS
+Review Order Page,en,ADDITIONAL DETAILS
+Review Order Page,en,Estimated Costs
+Review Order Page,en,Invalid Date Format
+Order Submission Page,en,Orders
+Order Submission Page,en,Approve Orders
+Order Submission Page,en,Order History
+Order Submission Page,en,Catalog
+Order Submission Page,en,Inventory
+Order Submission Page,en,Currency Conversion
+Order Submission Page,en,Budget
+Order Submission Page,en,Catalog Admin
+Order Submission Page,en,Policies
+Order Submission Page,en,Catalog
+Order Submission Page,en,DETAILS
+Order Submission Page,en,More
+Order Submission Page,en,Accounts
+Order Submission Page,en,User Access
+Order Submission Page,en,Logout
+Order Submission Page,en,Cancel
+Order Submission Page,en,Previous
+Order Submission Page,en,Submit Order
+Order Submission Page,en,Go to Service Catalog
+Order Submission Page,en,NO
+Order Submission Page,en,YES
+Order Submission Page,en,Continue Session
+Order Submission Page,en,Orders Approve Orders Order History
+Order Submission Page,en,PLACE ORDER
+Order Submission Page,en,Configure Service
+Order Submission Page,en,Submit Order
+Order Submission Page,en,SERVICE DETAILS
+Order Submission Page,en,ADDITIONAL DETAILS
+Order Submission Page,en,Estimated Costs
+Budgetary Unit Page,en,Number of items per page
+Budgetary Unit Page,en,Page number input
+Budgetary Unit Page,en,Name
+Budgetary Unit Page,en,Budget Unit Identifier
+Budgetary Unit Page,en,Description
+Budgetary Unit Page,en,External Reference Id
+Budgetary Unit Page,en,Search
+Budgetary Unit Page,en,Search
+Budgetary Unit Page,en,Search
+Budgetary Unit Page,en,Search
+Budgetary Unit Page,en,Show Associated
+Budgetary Unit Page,en,Budget Term
+Budgetary Unit Page,en,Inactive Active
+Budgetary Unit Page,en,Orders
+Budgetary Unit Page,en,Approve Orders
+Budgetary Unit Page,en,Order History
+Budgetary Unit Page,en,Catalog
+Budgetary Unit Page,en,Inventory
+Budgetary Unit Page,en,Currency Conversion
+Budgetary Unit Page,en,Budget
+Budgetary Unit Page,en,Catalog Admin
+Budgetary Unit Page,en,Policies
+Budgetary Unit Page,en,Accounts
+Budgetary Unit Page,en,User Access
+Budgetary Unit Page,en,Logout
+Budgetary Unit Page,en,Add New Budgetary Unit
+Budgetary Unit Page,en,View Details
+Budgetary Unit Page,en,Details
+Budgetary Unit Page,en,Budgets
+Budgetary Unit Page,en,Related Budgetary Units
+Budgetary Unit Page,en,Edit
+Budgetary Unit Page,en,Cancel
+Budgetary Unit Page,en,Continue
+Budgetary Unit Page,en,Cancel
+Budgetary Unit Page,en,Save
+Budgetary Unit Page,en,Cancel
+Budgetary Unit Page,en,Update
+Budgetary Unit Page,en,Continue Session
+Budgetary Unit Page,en,Orders Approve Orders Order History
+Budgetary Unit Page,en,Name
+Budgetary Unit Page,en,Budget Identifier
+Budgetary Unit Page,en,Budgetary Unit External Reference ID
+Budgetary Unit Page,en,Budget Term
+Budgetary Unit Page,en,Status
+Budgetary Unit Page,en,Active
+Budgetary Unit Page,en,Name
+Budgetary Unit Page,en,Budget Identifier
+Budgetary Unit Page,en,Budget Term
+Budgetary Unit Page,en,Status
+Budgetary Unit Page,en,Inactive
+Budgetary Unit Page,en,Active
+Add Conversion Rate page,en,Start Date
+Add Conversion Rate page,en,Start Time
+Add Conversion Rate page,en,End Date
+Add Conversion Rate page,en,End Time
+Add Conversion Rate page,en,From Currency
+Add Conversion Rate page,en,To Currency
+Add Conversion Rate page,en,Conversion Rate
+Add Conversion Rate page,en,Start Date
+Add Conversion Rate page,en,Start Time
+Add Conversion Rate page,en,End Date
+Add Conversion Rate page,en,End Time
+Add Conversion Rate page,en,Search
+Add Conversion Rate page,en,Number of items per page
+Add Conversion Rate page,en,Page number input
+Add Conversion Rate page,en,Orders
+Add Conversion Rate page,en,Approve Orders
+Add Conversion Rate page,en,Order History
+Add Conversion Rate page,en,Catalog
+Add Conversion Rate page,en,Inventory
+Add Conversion Rate page,en,Currency Conversion
+Add Conversion Rate page,en,Budget
+Add Conversion Rate page,en,Catalog Admin
+Add Conversion Rate page,en,Policies
+Add Conversion Rate page,en,Accounts
+Add Conversion Rate page,en,User Access
+Add Conversion Rate page,en,Logout
+Add Conversion Rate page,en,Cancel
+Add Conversion Rate page,en,Add
+Add Conversion Rate page,en,Ok
+Add Conversion Rate page,en,Add Conversion Rate
+Add Conversion Rate page,en,Edit
+Add Conversion Rate page,en,Delete
+Add Conversion Rate page,en,Cancel
+Add Conversion Rate page,en,Delete
+Add Conversion Rate page,en,Continue Session
+Add Conversion Rate page,en,Orders Approve Orders Order History
+Add Conversion Rate page,en,Corporate Currency
+Add Conversion Rate page,en,Cancel
+Add Conversion Rate page,en,Add
+Add Conversion Rate page,en,Add Conversion Rate
+Add Conversion Rate page,en,From Currency
+Add Conversion Rate page,en,To Currency
+Add Conversion Rate page,en,Conversion Rate
+Add Conversion Rate page,en,Start Date
+Add Conversion Rate page,en,End Date
+Add Conversion Rate page,en,Last Updated By
+Add Conversion Rate page,en,Last Updated On
+Add Conversion Rate page,en,Cancel
+Add Conversion Rate page,en,Delete
+Add Conversion Rate page,en,March
+Add Conversion Rate page,en,Sun
+Add Conversion Rate page,en,Mon
+Add Conversion Rate page,en,Tue
+Add Conversion Rate page,en,Wed
+Add Conversion Rate page,en,Thu
+Add Conversion Rate page,en,Fri
+Add Conversion Rate page,en,Sat
+Add Conversion Rate page,en,March
+Add Conversion Rate page,en,Sun
+Add Conversion Rate page,en,Mon
+Add Conversion Rate page,en,Tue
+Add Conversion Rate page,en,Wed
+Add Conversion Rate page,en,Thu
+Add Conversion Rate page,en,Fri
+Add Conversion Rate page,en,Sat
+Add Conversion Rate page,en,March
+Add Conversion Rate page,en,Sun
+Add Conversion Rate page,en,Mon
+Add Conversion Rate page,en,Tue
+Add Conversion Rate page,en,Wed
+Add Conversion Rate page,en,Thu
+Add Conversion Rate page,en,Fri
+Add Conversion Rate page,en,Sat
+Add Conversion Rate page,en,March
+Add Conversion Rate page,en,Sun
+Add Conversion Rate page,en,Mon
+Add Conversion Rate page,en,Tue
+Add Conversion Rate page,en,Wed
+Add Conversion Rate page,en,Thu
+Add Conversion Rate page,en,Fri
+Add Conversion Rate page,en,Sat
+Sign-In Page,es,Acepto la declaración de privacidad
+Sign-In Page,es,Pedidos
+Sign-In Page,es,Aprobar pedidos
+Sign-In Page,es,Historial de pedidos
+Sign-In Page,es,Catálogo
+Sign-In Page,es,Inventario
+Sign-In Page,es,Conversión de moneda
+Sign-In Page,es,Presupuesto
+Sign-In Page,es,Administrador de catálogo
+Sign-In Page,es,Políticas
+Sign-In Page,es,Empecemos
+Sign-In Page,es,Declaración de privacidad
+Sign-In Page,es,Cuentas
+Sign-In Page,es,Acceso del usuario
+Sign-In Page,es,Cerrar sesión
+Sign-In Page,es,Someter
+Sign-In Page,es,Continuar sesión
+Sign-In Page,es,Pedidos Aprobar pedidos Historial de pedidos
+Main Parameters page,es,Nombre de instancia de servicio
+Main Parameters page,es,Cantidad
+Main Parameters page,es,Compra rápida
+Main Parameters page,es,Añadir servicio a carro de la compra existente
+Main Parameters page,es,Añadir servicio a nuevo carro de la compra
+Main Parameters page,es,Cuenta de proveedor
+Main Parameters page,es,Pedidos
+Main Parameters page,es,Aprobar pedidos
+Main Parameters page,es,Historial de pedidos
+Main Parameters page,es,Catálogo
+Main Parameters page,es,Inventario
+Main Parameters page,es,Conversión de moneda
+Main Parameters page,es,Presupuesto
+Main Parameters page,es,Administrador de catálogo
+Main Parameters page,es,Políticas
+Main Parameters page,es,Catálogo
+Main Parameters page,es,DETALLES
+Main Parameters page,es,Cuentas
+Main Parameters page,es,Acceso del usuario
+Main Parameters page,es,Cerrar sesión
+Main Parameters page,es,Cancelar
+Main Parameters page,es,Siguiente
+Main Parameters page,es,NO
+Main Parameters page,es,SÍ
+Main Parameters page,es,Continuar sesión
+Main Parameters page,es,Pedidos Aprobar pedidos Historial de pedidos
+Main Parameters page,es,REALIZAR PEDIDO
+Main Parameters page,es,Configurar servicio
+Main Parameters page,es,Coste estimado
+Main Parameters page,es,Compra rápida
+Main Parameters page,es,Añadir servicio a carro de la compra existente
+Main Parameters page,es,Añadir servicio a nuevo carro de la compra
+Review Order Page,es,Pedidos
+Review Order Page,es,Aprobar pedidos
+Review Order Page,es,Historial de pedidos
+Review Order Page,es,Catálogo
+Review Order Page,es,Inventario
+Review Order Page,es,Conversión de moneda
+Review Order Page,es,Presupuesto
+Review Order Page,es,Administrador de catálogo
+Review Order Page,es,Políticas
+Review Order Page,es,Catálogo
+Review Order Page,es,DETALLES
+Review Order Page,es,Más
+Review Order Page,es,Cuentas
+Review Order Page,es,Acceso del usuario
+Review Order Page,es,Cerrar sesión
+Review Order Page,es,Cancelar
+Review Order Page,es,Anterior
+Review Order Page,es,Enviar pedido
+Review Order Page,es,Ir al catálogo de servicios
+Review Order Page,es,NO
+Review Order Page,es,SÍ
+Review Order Page,es,Continuar sesión
+Review Order Page,es,Pedidos Aprobar pedidos Historial de pedidos
+Review Order Page,es,REALIZAR PEDIDO
+Review Order Page,es,Configurar servicio
+Review Order Page,es,Enviar pedido
+Review Order Page,es,DETALLES DEl SERVICIO
+Review Order Page,es,INFORMACIÓN ADICIONAL
+Review Order Page,es,Costes estimados
+Review Order Page,es,Invalid Date Format
+Order Submission Page,es,Pedidos
+Order Submission Page,es,Aprobar pedidos
+Order Submission Page,es,Historial de pedidos
+Order Submission Page,es,Catálogo
+Order Submission Page,es,Inventario
+Order Submission Page,es,Conversión de moneda
+Order Submission Page,es,Presupuesto
+Order Submission Page,es,Administrador de catálogo
+Order Submission Page,es,Políticas
+Order Submission Page,es,Catálogo
+Order Submission Page,es,DETALLES
+Order Submission Page,es,Más
+Order Submission Page,es,Cuentas
+Order Submission Page,es,Acceso del usuario
+Order Submission Page,es,Cerrar sesión
+Order Submission Page,es,Cancelar
+Order Submission Page,es,Anterior
+Order Submission Page,es,Enviar pedido
+Order Submission Page,es,Ir al catálogo de servicios
+Order Submission Page,es,NO
+Order Submission Page,es,SÍ
+Order Submission Page,es,Continuar sesión
+Order Submission Page,es,Pedidos Aprobar pedidos Historial de pedidos
+Order Submission Page,es,REALIZAR PEDIDO
+Order Submission Page,es,Configurar servicio
+Order Submission Page,es,Enviar pedido
+Order Submission Page,es,DETALLES DEl SERVICIO
+Order Submission Page,es,INFORMACIÓN ADICIONAL
+Order Submission Page,es,Costes estimados
+Budgetary Unit Page,es,Número de elementos por página
+Budgetary Unit Page,es,Page number input
+Budgetary Unit Page,es,Nombre
+Budgetary Unit Page,es,Identificador de unidad de presupuesto
+Budgetary Unit Page,es,Descripción
+Budgetary Unit Page,es,ID de referencia externa
+Budgetary Unit Page,es,Buscar
+Budgetary Unit Page,es,Buscar
+Budgetary Unit Page,es,Buscar
+Budgetary Unit Page,es,Buscar
+Budgetary Unit Page,es,Mostrar Asociado
+Budgetary Unit Page,es,Plazo del presupuesto
+Budgetary Unit Page,es,Inactivo Activo
+Budgetary Unit Page,es,Pedidos
+Budgetary Unit Page,es,Aprobar pedidos
+Budgetary Unit Page,es,Historial de pedidos
+Budgetary Unit Page,es,Catálogo
+Budgetary Unit Page,es,Inventario
+Budgetary Unit Page,es,Conversión de moneda
+Budgetary Unit Page,es,Presupuesto
+Budgetary Unit Page,es,Administrador de catálogo
+Budgetary Unit Page,es,Políticas
+Budgetary Unit Page,es,Cuentas
+Budgetary Unit Page,es,Acceso del usuario
+Budgetary Unit Page,es,Cerrar sesión
+Budgetary Unit Page,es,Añadir unidad presupuestaria nueva
+Budgetary Unit Page,es,Ver detalles
+Budgetary Unit Page,es,Detalles
+Budgetary Unit Page,es,Presupuestos
+Budgetary Unit Page,es,Unidades presupuestarias relacionadas
+Budgetary Unit Page,es,Editar
+Budgetary Unit Page,es,Cancelar
+Budgetary Unit Page,es,Continuar
+Budgetary Unit Page,es,Cancelar
+Budgetary Unit Page,es,Guardar
+Budgetary Unit Page,es,Cancelar
+Budgetary Unit Page,es,Actualizar
+Budgetary Unit Page,es,Continuar sesión
+Budgetary Unit Page,es,Pedidos Aprobar pedidos Historial de pedidos
+Budgetary Unit Page,es,Nombre
+Budgetary Unit Page,es,Identificador de presupuesto
+Budgetary Unit Page,es,ID de referencia externa de unidad presupuestaria
+Budgetary Unit Page,es,Plazo del presupuesto
+Budgetary Unit Page,es,Estado
+Budgetary Unit Page,es,Activo
+Budgetary Unit Page,es,Nombre
+Budgetary Unit Page,es,Identificador de presupuesto
+Budgetary Unit Page,es,Plazo del presupuesto
+Budgetary Unit Page,es,Estado
+Budgetary Unit Page,es,Inactivo
+Budgetary Unit Page,es,Activo
+Add Conversion Rate page,es,Fecha inicial
+Add Conversion Rate page,es,Start Time
+Add Conversion Rate page,es,Fecha final
+Add Conversion Rate page,es,End Time
+Add Conversion Rate page,es,De divisa
+Add Conversion Rate page,es,A divisa
+Add Conversion Rate page,es,Tipo de cambio
+Add Conversion Rate page,es,Fecha inicial
+Add Conversion Rate page,es,Start Time
+Add Conversion Rate page,es,Fecha final
+Add Conversion Rate page,es,End Time
+Add Conversion Rate page,es,Buscar
+Add Conversion Rate page,es,Número de elementos por página
+Add Conversion Rate page,es,Page number input
+Add Conversion Rate page,es,Pedidos
+Add Conversion Rate page,es,Aprobar pedidos
+Add Conversion Rate page,es,Historial de pedidos
+Add Conversion Rate page,es,Catálogo
+Add Conversion Rate page,es,Inventario
+Add Conversion Rate page,es,Conversión de moneda
+Add Conversion Rate page,es,Presupuesto
+Add Conversion Rate page,es,Administrador de catálogo
+Add Conversion Rate page,es,Políticas
+Add Conversion Rate page,es,Cuentas
+Add Conversion Rate page,es,Acceso del usuario
+Add Conversion Rate page,es,Cerrar sesión
+Add Conversion Rate page,es,Cancelar
+Add Conversion Rate page,es,Añadir
+Add Conversion Rate page,es,Aceptar
+Add Conversion Rate page,es,Añadir tipo de cambio
+Add Conversion Rate page,es,Editar
+Add Conversion Rate page,es,Suprimir
+Add Conversion Rate page,es,Cancelar
+Add Conversion Rate page,es,Suprimir
+Add Conversion Rate page,es,Continuar sesión
+Add Conversion Rate page,es,Pedidos Aprobar pedidos Historial de pedidos
+Add Conversion Rate page,es,Moneda corporativa
+Add Conversion Rate page,es,Cancelar
+Add Conversion Rate page,es,Añadir
+Add Conversion Rate page,es,Añadir tipo de cambio
+Add Conversion Rate page,es,De divisa
+Add Conversion Rate page,es,A divisa
+Add Conversion Rate page,es,Tipo de cambio
+Add Conversion Rate page,es,Fecha inicial
+Add Conversion Rate page,es,Fecha final
+Add Conversion Rate page,es,Actualizado por última vez por
+Add Conversion Rate page,es,Actualizado por última vez el
+Add Conversion Rate page,es,Cancelar
+Add Conversion Rate page,es,Suprimir
+Add Conversion Rate page,es,March
+Add Conversion Rate page,es,Sun
+Add Conversion Rate page,es,Mon
+Add Conversion Rate page,es,Tue
+Add Conversion Rate page,es,Wed
+Add Conversion Rate page,es,Thu
+Add Conversion Rate page,es,Fri
+Add Conversion Rate page,es,Sat
+Add Conversion Rate page,es,March
+Add Conversion Rate page,es,Sun
+Add Conversion Rate page,es,Mon
+Add Conversion Rate page,es,Tue
+Add Conversion Rate page,es,Wed
+Add Conversion Rate page,es,Thu
+Add Conversion Rate page,es,Fri
+Add Conversion Rate page,es,Sat
+Add Conversion Rate page,es,March
+Add Conversion Rate page,es,Sun
+Add Conversion Rate page,es,Mon
+Add Conversion Rate page,es,Tue
+Add Conversion Rate page,es,Wed
+Add Conversion Rate page,es,Thu
+Add Conversion Rate page,es,Fri
+Add Conversion Rate page,es,Sat
+Add Conversion Rate page,es,March
+Add Conversion Rate page,es,Sun
+Add Conversion Rate page,es,Mon
+Add Conversion Rate page,es,Tue
+Add Conversion Rate page,es,Wed
+Add Conversion Rate page,es,Thu
+Add Conversion Rate page,es,Fri
+Add Conversion Rate page,es,Sat
+Sign-In Page,de,Datenschutzbestimmung akzeptieren
+Sign-In Page,de,Bestellungen
+Sign-In Page,de,Bestellungen genehmigen
+Sign-In Page,de,Bestellverlauf
+Sign-In Page,de,Katalog
+Sign-In Page,de,Bestand
+Sign-In Page,de,Währungsumrechnung
+Sign-In Page,de,Budget
+Sign-In Page,de,Katalogadministrator
+Sign-In Page,de,Richtlinien
+Sign-In Page,de,Erste Schritte
+Sign-In Page,de,Datenschutzerklärung
+Sign-In Page,de,Konten
+Sign-In Page,de,Benutzerzugriff
+Sign-In Page,de,Abmelden
+Sign-In Page,de,Übergeben
+Sign-In Page,de,Sitzung fortsetzen
+Sign-In Page,de,Bestellungen Bestellungen genehmigen Bestellverlauf
+Main Parameters page,de,Serviceinstanzname
+Main Parameters page,de,Menge
+Main Parameters page,de,Schneller Kauf
+Main Parameters page,de,Service zu vorhandenem Warenkorb hinzufügen
+Main Parameters page,de,Service zu neuem Warenkorb hinzufügen
+Main Parameters page,de,Providerkonto
+Main Parameters page,de,Bestellungen
+Main Parameters page,de,Bestellungen genehmigen
+Main Parameters page,de,Bestellverlauf
+Main Parameters page,de,Katalog
+Main Parameters page,de,Bestand
+Main Parameters page,de,Währungsumrechnung
+Main Parameters page,de,Budget
+Main Parameters page,de,Katalogadministrator
+Main Parameters page,de,Richtlinien
+Main Parameters page,de,Katalog
+Main Parameters page,de,DETAILS
+Main Parameters page,de,Konten
+Main Parameters page,de,Benutzerzugriff
+Main Parameters page,de,Abmelden
+Main Parameters page,de,Abbrechen
+Main Parameters page,de,Weiter
+Main Parameters page,de,NEIN
+Main Parameters page,de,JA
+Main Parameters page,de,Sitzung fortsetzen
+Main Parameters page,de,Bestellungen Bestellungen genehmigen Bestellverlauf
+Main Parameters page,de,BESTELLUNG AUFGEBEN
+Main Parameters page,de,Service konfigurieren
+Main Parameters page,de,Geschätzte Kosten
+Main Parameters page,de,Schneller Kauf
+Main Parameters page,de,Service zu vorhandenem Warenkorb hinzufügen
+Main Parameters page,de,Service zu neuem Warenkorb hinzufügen
+Review Order Page,de,Bestellungen
+Review Order Page,de,Bestellungen genehmigen
+Review Order Page,de,Bestellverlauf
+Review Order Page,de,Katalog
+Review Order Page,de,Bestand
+Review Order Page,de,Währungsumrechnung
+Review Order Page,de,Budget
+Review Order Page,de,Katalogadministrator
+Review Order Page,de,Richtlinien
+Review Order Page,de,Katalog
+Review Order Page,de,DETAILS
+Review Order Page,de,Mehr
+Review Order Page,de,Konten
+Review Order Page,de,Benutzerzugriff
+Review Order Page,de,Abmelden
+Review Order Page,de,Abbrechen
+Review Order Page,de,Zurück
+Review Order Page,de,Bestellung abschicken
+Review Order Page,de,Zum Servicekatalog
+Review Order Page,de,NEIN
+Review Order Page,de,JA
+Review Order Page,de,Sitzung fortsetzen
+Review Order Page,de,Bestellungen Bestellungen genehmigen Bestellverlauf
+Review Order Page,de,BESTELLUNG AUFGEBEN
+Review Order Page,de,Service konfigurieren
+Review Order Page,de,Bestellung abschicken
+Review Order Page,de,SERVICEDETAILS
+Review Order Page,de,ZUSÄTZLICHE DETAILS
+Review Order Page,de,Geschätzte Kosten
+Review Order Page,de,Invalid Date Format
+Review Order Page,de,Nicht zutreffend
+Order Submission Page,de,Bestellungen
+Order Submission Page,de,Bestellungen genehmigen
+Order Submission Page,de,Bestellverlauf
+Order Submission Page,de,Katalog
+Order Submission Page,de,Bestand
+Order Submission Page,de,Währungsumrechnung
+Order Submission Page,de,Budget
+Order Submission Page,de,Katalogadministrator
+Order Submission Page,de,Richtlinien
+Order Submission Page,de,Katalog
+Order Submission Page,de,DETAILS
+Order Submission Page,de,Mehr
+Order Submission Page,de,Konten
+Order Submission Page,de,Benutzerzugriff
+Order Submission Page,de,Abmelden
+Order Submission Page,de,Abbrechen
+Order Submission Page,de,Zurück
+Order Submission Page,de,Bestellung abschicken
+Order Submission Page,de,Zum Servicekatalog
+Order Submission Page,de,NEIN
+Order Submission Page,de,JA
+Order Submission Page,de,Sitzung fortsetzen
+Order Submission Page,de,Bestellungen Bestellungen genehmigen Bestellverlauf
+Order Submission Page,de,BESTELLUNG AUFGEBEN
+Order Submission Page,de,Service konfigurieren
+Order Submission Page,de,Bestellung abschicken
+Order Submission Page,de,SERVICEDETAILS
+Order Submission Page,de,ZUSÄTZLICHE DETAILS
+Order Submission Page,de,Geschätzte Kosten
+Budgetary Unit Page,de,Anzal der Elemente pro Seite
+Budgetary Unit Page,de,Page number input
+Budgetary Unit Page,de,Name
+Budgetary Unit Page,de,ID der Budgeteinheit
+Budgetary Unit Page,de,Beschreibung
+Budgetary Unit Page,de,Suchen
+Budgetary Unit Page,de,Suchen
+Budgetary Unit Page,de,Suchen
+Budgetary Unit Page,de,Suchen
+Budgetary Unit Page,de,Zugehörige anzeigen
+Budgetary Unit Page,de,Budgetlaufzeit
+Budgetary Unit Page,de,Inaktiv Aktiv
+Budgetary Unit Page,de,Bestellungen
+Budgetary Unit Page,de,Bestellungen genehmigen
+Budgetary Unit Page,de,Bestellverlauf
+Budgetary Unit Page,de,Katalog
+Budgetary Unit Page,de,Bestand
+Budgetary Unit Page,de,Währungsumrechnung
+Budgetary Unit Page,de,Budget
+Budgetary Unit Page,de,Katalogadministrator
+Budgetary Unit Page,de,Richtlinien
+Budgetary Unit Page,de,Konten
+Budgetary Unit Page,de,Benutzerzugriff
+Budgetary Unit Page,de,Abmelden
+Budgetary Unit Page,de,Neue Budgeteinheit hinzufügen
+Budgetary Unit Page,de,Details anzeigen
+Budgetary Unit Page,de,Details
+Budgetary Unit Page,de,Budgets
+Budgetary Unit Page,de,Zugehörige Budgeteinheiten
+Budgetary Unit Page,de,Bearbeiten
+Budgetary Unit Page,de,Abbrechen
+Budgetary Unit Page,de,Weiter
+Budgetary Unit Page,de,Abbrechen
+Budgetary Unit Page,de,Speichern
+Budgetary Unit Page,de,Abbrechen
+Budgetary Unit Page,de,Aktualisieren
+Budgetary Unit Page,de,Sitzung fortsetzen
+Budgetary Unit Page,de,Bestellungen Bestellungen genehmigen Bestellverlauf
+Budgetary Unit Page,de,Name
+Budgetary Unit Page,de,Budgetlaufzeit
+Budgetary Unit Page,de,Status
+Budgetary Unit Page,de,Aktiv
+Budgetary Unit Page,de,Name
+Budgetary Unit Page,de,Budgetlaufzeit
+Budgetary Unit Page,de,Status
+Budgetary Unit Page,de,Inaktiv
+Budgetary Unit Page,de,Aktiv
+Add Conversion Rate page,de,Startdatum
+Add Conversion Rate page,de,Start Time
+Add Conversion Rate page,de,Enddatum
+Add Conversion Rate page,de,End Time
+Add Conversion Rate page,de,Aus Währung
+Add Conversion Rate page,de,In Währung
+Add Conversion Rate page,de,Umrechnungskurs
+Add Conversion Rate page,de,Startdatum
+Add Conversion Rate page,de,Start Time
+Add Conversion Rate page,de,Enddatum
+Add Conversion Rate page,de,End Time
+Add Conversion Rate page,de,Suchen
+Add Conversion Rate page,de,Anzal der Elemente pro Seite
+Add Conversion Rate page,de,Page number input
+Add Conversion Rate page,de,Bestellungen
+Add Conversion Rate page,de,Bestellungen genehmigen
+Add Conversion Rate page,de,Bestellverlauf
+Add Conversion Rate page,de,Katalog
+Add Conversion Rate page,de,Bestand
+Add Conversion Rate page,de,Währungsumrechnung
+Add Conversion Rate page,de,Budget
+Add Conversion Rate page,de,Katalogadministrator
+Add Conversion Rate page,de,Richtlinien
+Add Conversion Rate page,de,Konten
+Add Conversion Rate page,de,Benutzerzugriff
+Add Conversion Rate page,de,Abmelden
+Add Conversion Rate page,de,Abbrechen
+Add Conversion Rate page,de,Hinzufügen
+Add Conversion Rate page,de,OK
+Add Conversion Rate page,de,Umrechnungskurs hinzufügen
+Add Conversion Rate page,de,Bearbeiten
+Add Conversion Rate page,de,Löschen
+Add Conversion Rate page,de,Abbrechen
+Add Conversion Rate page,de,Löschen
+Add Conversion Rate page,de,Sitzung fortsetzen
+Add Conversion Rate page,de,Bestellungen Bestellungen genehmigen Bestellverlauf
+Add Conversion Rate page,de,Unternehmenswährung
+Add Conversion Rate page,de,Abbrechen
+Add Conversion Rate page,de,Hinzufügen
+Add Conversion Rate page,de,Umrechnungskurs hinzufügen
+Add Conversion Rate page,de,Aus Währung
+Add Conversion Rate page,de,In Währung
+Add Conversion Rate page,de,Umrechnungskurs
+Add Conversion Rate page,de,Startdatum
+Add Conversion Rate page,de,Enddatum
+Add Conversion Rate page,de,Zuletzt aktualisiert von
+Add Conversion Rate page,de,Zuletzt aktualisiert am
+Add Conversion Rate page,de,Abbrechen
+Add Conversion Rate page,de,Löschen
+Add Conversion Rate page,de,March
+Add Conversion Rate page,de,Sun
+Add Conversion Rate page,de,Mon
+Add Conversion Rate page,de,Tue
+Add Conversion Rate page,de,Wed
+Add Conversion Rate page,de,Thu
+Add Conversion Rate page,de,Fri
+Add Conversion Rate page,de,Sat
+Add Conversion Rate page,de,March
+Add Conversion Rate page,de,Sun
+Add Conversion Rate page,de,Mon
+Add Conversion Rate page,de,Tue
+Add Conversion Rate page,de,Wed
+Add Conversion Rate page,de,Thu
+Add Conversion Rate page,de,Fri
+Add Conversion Rate page,de,Sat
+Add Conversion Rate page,de,March
+Add Conversion Rate page,de,Sun
+Add Conversion Rate page,de,Mon
+Add Conversion Rate page,de,Tue
+Add Conversion Rate page,de,Wed
+Add Conversion Rate page,de,Thu
+Add Conversion Rate page,de,Fri
+Add Conversion Rate page,de,Sat
+Add Conversion Rate page,de,March
+Add Conversion Rate page,de,Sun
+Add Conversion Rate page,de,Mon
+Add Conversion Rate page,de,Tue
+Add Conversion Rate page,de,Wed
+Add Conversion Rate page,de,Thu
+Add Conversion Rate page,de,Fri
+Add Conversion Rate page,de,Sat
+Sign-In Page,zh-CN,同意隐私声明
+Sign-In Page,zh-CN,订单
+Sign-In Page,zh-CN,核准订单
+Sign-In Page,zh-CN,订单历史记录
+Sign-In Page,zh-CN,目录
+Sign-In Page,zh-CN,库存
+Sign-In Page,zh-CN,货币换算
+Sign-In Page,zh-CN,预算
+Sign-In Page,zh-CN,目录管理
+Sign-In Page,zh-CN,策略
+Sign-In Page,zh-CN,立即体验
+Sign-In Page,zh-CN,隐私声明
+Sign-In Page,zh-CN,帐户
+Sign-In Page,zh-CN,用户访问权
+Sign-In Page,zh-CN,注销
+Sign-In Page,zh-CN,提交
+Sign-In Page,zh-CN,继续会话
+Sign-In Page,zh-CN,订单 核准订单 订单历史记录
+Main Parameters page,zh-CN,服务实例名称
+Main Parameters page,zh-CN,数量
+Main Parameters page,zh-CN,快速购买
+Main Parameters page,zh-CN,将服务添加到现有购物车
+Main Parameters page,zh-CN,将服务添加到新购物车
+Main Parameters page,zh-CN,团队：
+Main Parameters page,zh-CN,提供程序帐户
+Main Parameters page,zh-CN,订单
+Main Parameters page,zh-CN,核准订单
+Main Parameters page,zh-CN,订单历史记录
+Main Parameters page,zh-CN,目录
+Main Parameters page,zh-CN,库存
+Main Parameters page,zh-CN,货币换算
+Main Parameters page,zh-CN,预算
+Main Parameters page,zh-CN,目录管理
+Main Parameters page,zh-CN,策略
+Main Parameters page,zh-CN,目录
+Main Parameters page,zh-CN,详细信息
+Main Parameters page,zh-CN,帐户
+Main Parameters page,zh-CN,用户访问权
+Main Parameters page,zh-CN,注销
+Main Parameters page,zh-CN,取消
+Main Parameters page,zh-CN,下一步
+Main Parameters page,zh-CN,否
+Main Parameters page,zh-CN,是
+Main Parameters page,zh-CN,继续会话
+Main Parameters page,zh-CN,订单 核准订单 订单历史记录
+Main Parameters page,zh-CN,下单
+Main Parameters page,zh-CN,配置服务
+Main Parameters page,zh-CN,估计成本
+Main Parameters page,zh-CN,快速购买
+Main Parameters page,zh-CN,将服务添加到现有购物车
+Main Parameters page,zh-CN,将服务添加到新购物车
+Review Order Page,zh-CN,订单
+Review Order Page,zh-CN,核准订单
+Review Order Page,zh-CN,订单历史记录
+Review Order Page,zh-CN,目录
+Review Order Page,zh-CN,库存
+Review Order Page,zh-CN,货币换算
+Review Order Page,zh-CN,预算
+Review Order Page,zh-CN,目录管理
+Review Order Page,zh-CN,策略
+Review Order Page,zh-CN,目录
+Review Order Page,zh-CN,详细信息
+Review Order Page,zh-CN,更多
+Review Order Page,zh-CN,帐户
+Review Order Page,zh-CN,用户访问权
+Review Order Page,zh-CN,注销
+Review Order Page,zh-CN,取消
+Review Order Page,zh-CN,上一步
+Review Order Page,zh-CN,提交订单
+Review Order Page,zh-CN,转至服务目录
+Review Order Page,zh-CN,否
+Review Order Page,zh-CN,是
+Review Order Page,zh-CN,继续会话
+Review Order Page,zh-CN,订单 核准订单 订单历史记录
+Review Order Page,zh-CN,下单
+Review Order Page,zh-CN,配置服务
+Review Order Page,zh-CN,提交订单
+Review Order Page,zh-CN,服务详细信息
+Review Order Page,zh-CN,其他详细信息
+Review Order Page,zh-CN,估计成本
+Review Order Page,zh-CN,Invalid Date Format
+Review Order Page,zh-CN,不适用
+Order Submission Page,zh-CN,订单
+Order Submission Page,zh-CN,核准订单
+Order Submission Page,zh-CN,订单历史记录
+Order Submission Page,zh-CN,目录
+Order Submission Page,zh-CN,库存
+Order Submission Page,zh-CN,货币换算
+Order Submission Page,zh-CN,预算
+Order Submission Page,zh-CN,目录管理
+Order Submission Page,zh-CN,策略
+Order Submission Page,zh-CN,目录
+Order Submission Page,zh-CN,详细信息
+Order Submission Page,zh-CN,更多
+Order Submission Page,zh-CN,帐户
+Order Submission Page,zh-CN,用户访问权
+Order Submission Page,zh-CN,注销
+Order Submission Page,zh-CN,取消
+Order Submission Page,zh-CN,上一步
+Order Submission Page,zh-CN,提交订单
+Order Submission Page,zh-CN,转至服务目录
+Order Submission Page,zh-CN,否
+Order Submission Page,zh-CN,是
+Order Submission Page,zh-CN,继续会话
+Order Submission Page,zh-CN,订单 核准订单 订单历史记录
+Order Submission Page,zh-CN,下单
+Order Submission Page,zh-CN,配置服务
+Order Submission Page,zh-CN,提交订单
+Order Submission Page,zh-CN,服务详细信息
+Order Submission Page,zh-CN,其他详细信息
+Order Submission Page,zh-CN,估计成本
+Budgetary Unit Page,zh-CN,每页项目数
+Budgetary Unit Page,zh-CN,Page number input
+Budgetary Unit Page,zh-CN,名称
+Budgetary Unit Page,zh-CN,预算单元标识
+Budgetary Unit Page,zh-CN,描述
+Budgetary Unit Page,zh-CN,外部引用标识
+Budgetary Unit Page,zh-CN,搜索
+Budgetary Unit Page,zh-CN,搜索
+Budgetary Unit Page,zh-CN,搜索
+Budgetary Unit Page,zh-CN,搜索
+Budgetary Unit Page,zh-CN,显示相关联对象
+Budgetary Unit Page,zh-CN,预算期
+Budgetary Unit Page,zh-CN,不活动 活动
+Budgetary Unit Page,zh-CN,订单
+Budgetary Unit Page,zh-CN,核准订单
+Budgetary Unit Page,zh-CN,订单历史记录
+Budgetary Unit Page,zh-CN,目录
+Budgetary Unit Page,zh-CN,库存
+Budgetary Unit Page,zh-CN,货币换算
+Budgetary Unit Page,zh-CN,预算
+Budgetary Unit Page,zh-CN,目录管理
+Budgetary Unit Page,zh-CN,策略
+Budgetary Unit Page,zh-CN,帐户
+Budgetary Unit Page,zh-CN,用户访问权
+Budgetary Unit Page,zh-CN,注销
+Budgetary Unit Page,zh-CN,添加新预算单元
+Budgetary Unit Page,zh-CN,查看详细信息
+Budgetary Unit Page,zh-CN,详细信息
+Budgetary Unit Page,zh-CN,预算
+Budgetary Unit Page,zh-CN,相关预算单元
+Budgetary Unit Page,zh-CN,编辑
+Budgetary Unit Page,zh-CN,取消
+Budgetary Unit Page,zh-CN,继续
+Budgetary Unit Page,zh-CN,取消
+Budgetary Unit Page,zh-CN,保存
+Budgetary Unit Page,zh-CN,取消
+Budgetary Unit Page,zh-CN,更新
+Budgetary Unit Page,zh-CN,继续会话
+Budgetary Unit Page,zh-CN,订单 核准订单 订单历史记录
+Budgetary Unit Page,zh-CN,名称
+Budgetary Unit Page,zh-CN,预算标识
+Budgetary Unit Page,zh-CN,预算单元外部引用标识
+Budgetary Unit Page,zh-CN,预算期
+Budgetary Unit Page,zh-CN,状态
+Budgetary Unit Page,zh-CN,活动
+Budgetary Unit Page,zh-CN,名称
+Budgetary Unit Page,zh-CN,预算标识
+Budgetary Unit Page,zh-CN,预算期
+Budgetary Unit Page,zh-CN,状态
+Budgetary Unit Page,zh-CN,已经添加您的预算单元 时间戳记：
+Budgetary Unit Page,zh-CN,不活动
+Budgetary Unit Page,zh-CN,活动
+Budgetary Unit Page,zh-CN,您的预算单元已更新 时间戳记：
+Add Conversion Rate page,zh-CN,开始日期
+Add Conversion Rate page,zh-CN,Start Time
+Add Conversion Rate page,zh-CN,结束日期
+Add Conversion Rate page,zh-CN,End Time
+Add Conversion Rate page,zh-CN,来源货币
+Add Conversion Rate page,zh-CN,目标货币
+Add Conversion Rate page,zh-CN,汇率
+Add Conversion Rate page,zh-CN,开始日期
+Add Conversion Rate page,zh-CN,Start Time
+Add Conversion Rate page,zh-CN,结束日期
+Add Conversion Rate page,zh-CN,End Time
+Add Conversion Rate page,zh-CN,搜索
+Add Conversion Rate page,zh-CN,每页项目数
+Add Conversion Rate page,zh-CN,Page number input
+Add Conversion Rate page,zh-CN,订单
+Add Conversion Rate page,zh-CN,核准订单
+Add Conversion Rate page,zh-CN,订单历史记录
+Add Conversion Rate page,zh-CN,目录
+Add Conversion Rate page,zh-CN,库存
+Add Conversion Rate page,zh-CN,货币换算
+Add Conversion Rate page,zh-CN,预算
+Add Conversion Rate page,zh-CN,目录管理
+Add Conversion Rate page,zh-CN,策略
+Add Conversion Rate page,zh-CN,帐户
+Add Conversion Rate page,zh-CN,用户访问权
+Add Conversion Rate page,zh-CN,注销
+Add Conversion Rate page,zh-CN,取消
+Add Conversion Rate page,zh-CN,添加
+Add Conversion Rate page,zh-CN,确定
+Add Conversion Rate page,zh-CN,添加汇率
+Add Conversion Rate page,zh-CN,编辑
+Add Conversion Rate page,zh-CN,删除
+Add Conversion Rate page,zh-CN,取消
+Add Conversion Rate page,zh-CN,删除
+Add Conversion Rate page,zh-CN,继续会话
+Add Conversion Rate page,zh-CN,订单 核准订单 订单历史记录
+Add Conversion Rate page,zh-CN,公司货币
+Add Conversion Rate page,zh-CN,取消
+Add Conversion Rate page,zh-CN,添加
+Add Conversion Rate page,zh-CN,添加汇率
+Add Conversion Rate page,zh-CN,来源货币
+Add Conversion Rate page,zh-CN,目标货币
+Add Conversion Rate page,zh-CN,汇率
+Add Conversion Rate page,zh-CN,开始日期
+Add Conversion Rate page,zh-CN,结束日期
+Add Conversion Rate page,zh-CN,最近一次更新者
+Add Conversion Rate page,zh-CN,最近一次更新日期
+Add Conversion Rate page,zh-CN,取消
+Add Conversion Rate page,zh-CN,删除
+Add Conversion Rate page,zh-CN,March
+Add Conversion Rate page,zh-CN,Sun
+Add Conversion Rate page,zh-CN,Mon
+Add Conversion Rate page,zh-CN,Tue
+Add Conversion Rate page,zh-CN,Wed
+Add Conversion Rate page,zh-CN,Thu
+Add Conversion Rate page,zh-CN,Fri
+Add Conversion Rate page,zh-CN,Sat
+Add Conversion Rate page,zh-CN,March
+Add Conversion Rate page,zh-CN,Sun
+Add Conversion Rate page,zh-CN,Mon
+Add Conversion Rate page,zh-CN,Tue
+Add Conversion Rate page,zh-CN,Wed
+Add Conversion Rate page,zh-CN,Thu
+Add Conversion Rate page,zh-CN,Fri
+Add Conversion Rate page,zh-CN,Sat
+Add Conversion Rate page,zh-CN,March
+Add Conversion Rate page,zh-CN,Sun
+Add Conversion Rate page,zh-CN,Mon
+Add Conversion Rate page,zh-CN,Tue
+Add Conversion Rate page,zh-CN,Wed
+Add Conversion Rate page,zh-CN,Thu
+Add Conversion Rate page,zh-CN,Fri
+Add Conversion Rate page,zh-CN,Sat
+Add Conversion Rate page,zh-CN,March
+Add Conversion Rate page,zh-CN,Sun
+Add Conversion Rate page,zh-CN,Mon
+Add Conversion Rate page,zh-CN,Tue
+Add Conversion Rate page,zh-CN,Wed
+Add Conversion Rate page,zh-CN,Thu
+Add Conversion Rate page,zh-CN,Fri
+Add Conversion Rate page,zh-CN,Sat

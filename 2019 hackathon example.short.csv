@@ -1,0 +1,229 @@
+WebpageLink,ExpectedLanguage,Text
+Add Conversion Rate page,en,Start Date
+Add Conversion Rate page,en,Start Time
+Add Conversion Rate page,en,End Date
+Add Conversion Rate page,en,End Time
+Add Conversion Rate page,en,From Currency
+Add Conversion Rate page,en,To Currency
+Add Conversion Rate page,en,Conversion Rate
+Add Conversion Rate page,en,Start Date
+Add Conversion Rate page,en,Start Time
+Add Conversion Rate page,en,End Date
+Add Conversion Rate page,en,End Time
+Add Conversion Rate page,en,Search
+Add Conversion Rate page,en,Number of items per page
+Add Conversion Rate page,en,Page number input
+Add Conversion Rate page,en,Orders
+Add Conversion Rate page,en,Approve Orders
+Add Conversion Rate page,en,Order History
+Add Conversion Rate page,en,Catalog
+Add Conversion Rate page,en,Inventory
+Add Conversion Rate page,en,Currency Conversion
+Add Conversion Rate page,en,Budget
+Add Conversion Rate page,en,Catalog Admin
+Add Conversion Rate page,en,Policies
+Add Conversion Rate page,en,Accounts
+Add Conversion Rate page,en,User Access
+Add Conversion Rate page,en,Logout
+Add Conversion Rate page,en,Cancel
+Add Conversion Rate page,en,Add
+Add Conversion Rate page,en,Ok
+Add Conversion Rate page,en,Add Conversion Rate
+Add Conversion Rate page,en,Edit
+Add Conversion Rate page,en,Delete
+Add Conversion Rate page,en,Cancel
+Add Conversion Rate page,en,Delete
+Add Conversion Rate page,en,Continue Session
+Add Conversion Rate page,en,Orders   Approve Orders   Order History
+Add Conversion Rate page,en,Corporate Currency
+Add Conversion Rate page,en,Cancel
+Add Conversion Rate page,en,Add
+Add Conversion Rate page,en,Add Conversion Rate
+Add Conversion Rate page,en,From Currency
+Add Conversion Rate page,en,To Currency
+Add Conversion Rate page,en,Conversion Rate
+Add Conversion Rate page,en,Start Date
+Add Conversion Rate page,en,End Date
+Add Conversion Rate page,en,Last Updated By
+Add Conversion Rate page,en,Last Updated On
+Add Conversion Rate page,en,Cancel
+Add Conversion Rate page,en,Delete
+Add Conversion Rate page,en,March
+Add Conversion Rate page,en,Sun
+Add Conversion Rate page,en,Mon
+Add Conversion Rate page,en,Tue
+Add Conversion Rate page,en,Wed
+Add Conversion Rate page,en,Thu
+Add Conversion Rate page,en,Fri
+Add Conversion Rate page,en,Sat
+Add Conversion Rate page,es,Fecha inicial
+Add Conversion Rate page,es,Start Time
+Add Conversion Rate page,es,Fecha final
+Add Conversion Rate page,es,End Time
+Add Conversion Rate page,es,De divisa
+Add Conversion Rate page,es,A divisa
+Add Conversion Rate page,es,Tipo de cambio
+Add Conversion Rate page,es,Fecha inicial
+Add Conversion Rate page,es,Start Time
+Add Conversion Rate page,es,Fecha final
+Add Conversion Rate page,es,End Time
+Add Conversion Rate page,es,Buscar
+Add Conversion Rate page,es,Número de elementos por página
+Add Conversion Rate page,es,Page number input
+Add Conversion Rate page,es,Pedidos
+Add Conversion Rate page,es,Aprobar pedidos
+Add Conversion Rate page,es,Historial de pedidos
+Add Conversion Rate page,es,Catálogo
+Add Conversion Rate page,es,Inventario
+Add Conversion Rate page,es,Conversión de moneda
+Add Conversion Rate page,es,Presupuesto
+Add Conversion Rate page,es,Administrador de catálogo
+Add Conversion Rate page,es,Políticas
+Add Conversion Rate page,es,Cuentas
+Add Conversion Rate page,es,Acceso del usuario
+Add Conversion Rate page,es,Cerrar sesión
+Add Conversion Rate page,es,Cancelar
+Add Conversion Rate page,es,Añadir
+Add Conversion Rate page,es,Aceptar
+Add Conversion Rate page,es,Añadir tipo de cambio
+Add Conversion Rate page,es,Editar
+Add Conversion Rate page,es,Suprimir
+Add Conversion Rate page,es,Cancelar
+Add Conversion Rate page,es,Suprimir
+Add Conversion Rate page,es,Continuar sesión
+Add Conversion Rate page,es,Pedidos   Aprobar pedidos   Historial de pedidos
+Add Conversion Rate page,es,Moneda corporativa
+Add Conversion Rate page,es,Cancelar
+Add Conversion Rate page,es,Añadir
+Add Conversion Rate page,es,Añadir tipo de cambio
+Add Conversion Rate page,es,De divisa
+Add Conversion Rate page,es,A divisa
+Add Conversion Rate page,es,Tipo de cambio
+Add Conversion Rate page,es,Fecha inicial
+Add Conversion Rate page,es,Fecha final
+Add Conversion Rate page,es,Actualizado por última vez por
+Add Conversion Rate page,es,Actualizado por última vez el
+Add Conversion Rate page,es,Cancelar
+Add Conversion Rate page,es,Suprimir
+Add Conversion Rate page,es,March
+Add Conversion Rate page,es,Sun
+Add Conversion Rate page,es,Mon
+Add Conversion Rate page,es,Tue
+Add Conversion Rate page,es,Wed
+Add Conversion Rate page,es,Thu
+Add Conversion Rate page,es,Fri
+Add Conversion Rate page,es,Sat
+Add Conversion Rate page,de,Startdatum
+Add Conversion Rate page,de,Start Time
+Add Conversion Rate page,de,Enddatum
+Add Conversion Rate page,de,End Time
+Add Conversion Rate page,de,Aus Währung
+Add Conversion Rate page,de,In Währung
+Add Conversion Rate page,de,Umrechnungskurs
+Add Conversion Rate page,de,Startdatum
+Add Conversion Rate page,de,Start Time
+Add Conversion Rate page,de,Enddatum
+Add Conversion Rate page,de,End Time
+Add Conversion Rate page,de,Suchen
+Add Conversion Rate page,de,Anzal der Elemente pro Seite
+Add Conversion Rate page,de,Page number input
+Add Conversion Rate page,de,Bestellungen
+Add Conversion Rate page,de,Bestellungen genehmigen
+Add Conversion Rate page,de,Bestellverlauf
+Add Conversion Rate page,de,Katalog
+Add Conversion Rate page,de,Bestand
+Add Conversion Rate page,de,Währungsumrechnung
+Add Conversion Rate page,de,Budget
+Add Conversion Rate page,de,Katalogadministrator
+Add Conversion Rate page,de,Richtlinien
+Add Conversion Rate page,de,Konten
+Add Conversion Rate page,de,Benutzerzugriff
+Add Conversion Rate page,de,Abmelden
+Add Conversion Rate page,de,Abbrechen
+Add Conversion Rate page,de,Hinzufügen
+Add Conversion Rate page,de,OK
+Add Conversion Rate page,de,Umrechnungskurs hinzufügen
+Add Conversion Rate page,de,Bearbeiten
+Add Conversion Rate page,de,Löschen
+Add Conversion Rate page,de,Abbrechen
+Add Conversion Rate page,de,Löschen
+Add Conversion Rate page,de,Sitzung fortsetzen
+Add Conversion Rate page,de,Bestellungen   Bestellungen genehmigen   Bestellverlauf
+Add Conversion Rate page,de,Unternehmenswährung
+Add Conversion Rate page,de,Abbrechen
+Add Conversion Rate page,de,Hinzufügen
+Add Conversion Rate page,de,Umrechnungskurs hinzufügen
+Add Conversion Rate page,de,Aus Währung
+Add Conversion Rate page,de,In Währung
+Add Conversion Rate page,de,Umrechnungskurs
+Add Conversion Rate page,de,Startdatum
+Add Conversion Rate page,de,Enddatum
+Add Conversion Rate page,de,Zuletzt aktualisiert von
+Add Conversion Rate page,de,Zuletzt aktualisiert am
+Add Conversion Rate page,de,Abbrechen
+Add Conversion Rate page,de,Löschen
+Add Conversion Rate page,de,March
+Add Conversion Rate page,de,Sun
+Add Conversion Rate page,de,Mon
+Add Conversion Rate page,de,Tue
+Add Conversion Rate page,de,Wed
+Add Conversion Rate page,de,Thu
+Add Conversion Rate page,de,Fri
+Add Conversion Rate page,de,Sat
+Add Conversion Rate page,zh-CN,开始日期
+Add Conversion Rate page,zh-CN,Start Time
+Add Conversion Rate page,zh-CN,结束日期
+Add Conversion Rate page,zh-CN,End Time
+Add Conversion Rate page,zh-CN,来源货币
+Add Conversion Rate page,zh-CN,目标货币
+Add Conversion Rate page,zh-CN,汇率
+Add Conversion Rate page,zh-CN,开始日期
+Add Conversion Rate page,zh-CN,Start Time
+Add Conversion Rate page,zh-CN,结束日期
+Add Conversion Rate page,zh-CN,End Time
+Add Conversion Rate page,zh-CN,搜索
+Add Conversion Rate page,zh-CN,每页项目数
+Add Conversion Rate page,zh-CN,Page number input
+Add Conversion Rate page,zh-CN,订单
+Add Conversion Rate page,zh-CN,核准订单
+Add Conversion Rate page,zh-CN,订单历史记录
+Add Conversion Rate page,zh-CN,目录
+Add Conversion Rate page,zh-CN,库存
+Add Conversion Rate page,zh-CN,货币换算
+Add Conversion Rate page,zh-CN,预算
+Add Conversion Rate page,zh-CN,目录管理
+Add Conversion Rate page,zh-CN,策略
+Add Conversion Rate page,zh-CN,帐户
+Add Conversion Rate page,zh-CN,用户访问权
+Add Conversion Rate page,zh-CN,注销
+Add Conversion Rate page,zh-CN,取消
+Add Conversion Rate page,zh-CN,添加
+Add Conversion Rate page,zh-CN,确定
+Add Conversion Rate page,zh-CN,添加汇率
+Add Conversion Rate page,zh-CN,编辑
+Add Conversion Rate page,zh-CN,删除
+Add Conversion Rate page,zh-CN,取消
+Add Conversion Rate page,zh-CN,删除
+Add Conversion Rate page,zh-CN,继续会话
+Add Conversion Rate page,zh-CN,订单   核准订单   订单历史记录
+Add Conversion Rate page,zh-CN,公司货币
+Add Conversion Rate page,zh-CN,取消
+Add Conversion Rate page,zh-CN,添加
+Add Conversion Rate page,zh-CN,添加汇率
+Add Conversion Rate page,zh-CN,来源货币
+Add Conversion Rate page,zh-CN,目标货币
+Add Conversion Rate page,zh-CN,汇率
+Add Conversion Rate page,zh-CN,开始日期
+Add Conversion Rate page,zh-CN,结束日期
+Add Conversion Rate page,zh-CN,最近一次更新者
+Add Conversion Rate page,zh-CN,最近一次更新日期
+Add Conversion Rate page,zh-CN,取消
+Add Conversion Rate page,zh-CN,删除
+Add Conversion Rate page,zh-CN,March
+Add Conversion Rate page,zh-CN,Sun
+Add Conversion Rate page,zh-CN,Mon
+Add Conversion Rate page,zh-CN,Tue
+Add Conversion Rate page,zh-CN,Wed
+Add Conversion Rate page,zh-CN,Thu
+Add Conversion Rate page,zh-CN,Fri
+Add Conversion Rate page,zh-CN,Sat
